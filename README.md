@@ -14,3 +14,4 @@ They have hired you to produce the necessary software to make this happen. They 
 	4) the processed videos will get stored in output directory.
 	
 ## sample outputs:
+![Scheme](output/ar_5-b-ps3-4-d.avi)
